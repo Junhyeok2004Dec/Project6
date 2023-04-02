@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="source.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ssd67.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
